@@ -18,7 +18,8 @@ Based upon an original idea of [Grafikart](https://grafikart.fr/), [Pratiquons a
 
 # To go futher
 
-- Set up registration, login and authentication
+- Setup data persistency with a backend like Firebase or supabase
+- Setup registration, login and authentication
 - Store Todo is a database with a relationship between user/todo
 - Enhance filtering with a text query
 - Pagination
